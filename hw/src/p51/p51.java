@@ -1,5 +1,4 @@
 package p51;
-
 public class p51 
 {
 	public static void main(String[]args)
